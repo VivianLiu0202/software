@@ -4,6 +4,7 @@ import os
 import sys
 
 # 对于B2进行修改！
+# 在C4上进行修改！
 
 def main():
     """Run administrative tasks."""
