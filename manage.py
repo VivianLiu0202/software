@@ -3,8 +3,7 @@
 import os
 import sys
 
-# 修改修改修改修改修改---------------
-# 第二次修改
+
 def main():
     """Run administrative tasks."""
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "SeaMonitorSystem.settings")
